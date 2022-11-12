@@ -1,0 +1,67 @@
+{
+  "mod_elements": [
+    {
+      "name": "TinIngot",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tin_ingot"
+    },
+    {
+      "name": "TinOre",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tin_ore"
+    },
+    {
+      "name": "TinOre1",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tin_ore_1"
+    },
+    {
+      "name": "TinSmelting",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tin_smelting"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.the_chemist.tin_ingot": "Tin Ingot",
+      "block.the_chemist.tin_ore_1": "Tin Ore 1",
+      "item.the_chemist.tin_ore": "Tin Ore"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "the_chemist",
+    "modName": "The Chemist",
+    "version": "1.0.0",
+    "author": "filip, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "modElementsPackage": "net.mcreator.thechemist",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200346416
+}
